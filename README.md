@@ -1,58 +1,70 @@
 <div align="center">
-  <img src="https://YOUR_PROFILE_IMAGE_URL" alt="Ehab Sadek" width="150" style="border-radius: 50%;">
-  <h1>Ehab Sadek (Ehab Sadek)</h1>
-  <p>A passionate developer with a love for building amazing things. Currently exploring new technologies and contributing to open source.</p>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Ehab%20Sadek&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Mobile%20&%20Desktop%20Expert&descAlignY=60&descFontSize=20" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6bm93eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnBzPTE/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </div>
 
 ---
 
-### 🌟 About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,php,aws,cs,java,python,docker,git,figma" />
-  </a>
+### 🚀 About Me
+<p align="left">
+Hello! I'm <b>Ehab Sadek</b>, a passionate software developer specializing in building intelligent and innovative solutions. I have a strong drive to transform complex ideas into user-friendly applications, whether they are mobile, desktop, or integrated web systems. My motto is clean code and superior performance.
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
----
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/YOUR_GITHUB_USERNAME/YOUR_GIST_ID/raw/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python,php,dart,html,css,mysql,sqlite&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,bootstrap,git,github,vscode,figma&theme=dark" />
+</div>
+
+---
+
+### 📊 Professional Developer Statistics (GitHub Activity)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webehook&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webehook&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=webehook&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📱 My Programming Specializations
+
+- **Mobile Applications:** Developing complete and fast applications using **Flutter & Dart**.
+- **Desktop Applications:** Building robust and stable systems using **C# & Java**.
+- **Web Applications:** Frontend and backend programming using **PHP, HTML, CSS**.
+- **Databases:** Designing and managing complex databases using **SQL**.
+
+---
+
+### 📫 Let's Connect
+<div align="center">
+  <a href="mailto:ehab.sadek@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ehabsadek">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=100&section=footer" width="100%" />
 </div>
